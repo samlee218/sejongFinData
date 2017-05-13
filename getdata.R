@@ -1,9 +1,11 @@
+
+
 if (!require("rvest")) install.packages("rvest")
 if (!require("stringi")) install.packages("stringi")
 library(rvest)
 library(stringi)
 
-print("start get code again.")
+print("start get code again - study.")
 
 url <- "http://www.sejongdata.com/query/value.html"
 
